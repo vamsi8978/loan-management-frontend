@@ -57,11 +57,5 @@ public class Customer {
         return employmentStatus;
     }
 
-    public void setEmploymentStatus(String employmentStatus) {
-        this.employmentStatus = employmentStatus;
-    }
 
-    private String employmentStatus;
-
-    // Getters and Setters
 }
