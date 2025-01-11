@@ -53,9 +53,7 @@ public class Customer {
         this.annualIncome = annualIncome;
     }
 
-    public String getEmploymentStatus() {
-        return employmentStatus;
-    }
+
 
 
 }
